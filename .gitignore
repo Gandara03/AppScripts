@@ -1,0 +1,44 @@
+# Archivos de configuración con credenciales reales
+config.js
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de Google Apps Script
+*.gs
+*.html
+
+# Archivos de log
+*.log
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de respaldo
+*.bak
+*.backup
+*~
+
+# Archivos compilados
+*.min.js
+*.bundle.js
+
+# Archivos de dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema
+*.tmp
+*.temp 
